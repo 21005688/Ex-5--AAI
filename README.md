@@ -58,7 +58,8 @@ plt.show()
 ```
 
 <H3>Output:</H3>
-![image](https://github.com/21005688/Ex-5--AAI/assets/94747031/1d021544-4223-4896-9834-94abff3df8f6)
+
+![Capture](https://github.com/21005688/Ex-5--AAI/assets/94747031/37f502b9-7078-45e8-8b65-8d1a214fcc88)
 
 
 
